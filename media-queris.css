@@ -1,0 +1,41 @@
+/* Iphone verticali e ladnscape */
+
+@media (min-width: 320px) and (max-width: 480px) {
+   
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+ 
+ 
+}
+
+/* Tablet verticali e ladnscape */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+
+}
+
+/* IPad Pro (piu grandi) */
+
+@media (min-width: 1024px) and (max-width: 1365px) {
+ 
+ 
+}
+/* landscape ipad piu grandi */
+@media (min-width: 1366px) and (max-width: 1367px) {
+  
+  
+}
+
+/* Desktop */
+
+@media (min-width: 1025px) {
+
+
+}
