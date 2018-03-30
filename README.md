@@ -1,2 +1,2 @@
 # media-queries
-Media queries
+Media queries custom
